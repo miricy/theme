@@ -495,6 +495,7 @@
                 <cacheThemes>true</cacheThemes>
                 <cacheTemplates>true</cacheTemplates>
                 <dir>${jboss.home.dir}/themes</dir>
+                <welcomeTheme>izhiju</welcomeTheme>
             </theme>
             <spi name="eventsStore">
                 <provider name="jpa" enabled="true">
